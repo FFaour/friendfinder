@@ -1,0 +1,100 @@
+var friends = [
+  {
+    "name":"Tony Romeo",
+    "photo":"https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiRnpfW6J7iAhVROq0KHRaxA20QjRx6BAgBEAU&url=https%3A%2F%2Fwww.thedailybeast.com%2Frick-ross-and-terrible-celhttps://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k/dpr_1.5/c_limit,w_690/fl_lossy,q_auto/v1/galleries/2015/06/24/rick-ross-terrible-celebrity-mugshots/151230-celeb-mugshots-cosby_z6sonoebrity-mugshots&psig=AOvVaw3FYqFDy-MmcNKG49LSEhyY&ust=1558053643571195",
+    "scores":[
+      5,
+      1,
+      4,
+      4,
+      5,
+      1,
+      2,
+      5,
+      4,
+      1
+    ]
+  },
+  {
+    "name":"Wendy Withers",
+    "photo":"https://imgix.ranker.com/user_node_img/50063/1001257808/original/h-photo-u1?w=650&q=50&fm=pjpg&fit=crop&crop=faces",
+    "scores":[
+      3,
+      9,
+      7,
+      2,
+      3,
+      8,
+      7,
+      5,
+      6,
+      8
+    ]
+  },
+  {
+    "name":"Pam Sprightly",
+    "photo":"http://cdn5.viralscape.com/wp-content/uploads/2014/09/Creepy-Mugshot-29.jpg",
+    "scores":[
+      3,
+      9,
+      2,
+      8,
+      3,
+      7,
+      6,
+      8,
+      3,
+      1
+    ]
+  },
+  {
+    "name":"Bell James",
+    "photo":"http://cdn6.viralscape.com/wp-content/uploads/2014/09/Creepy-Mugshot-31.jpg",
+    "scores":[
+      6,
+      5,
+      6,
+      3,
+      8,
+      4,
+      2,
+      3,
+      9,
+      5
+    ]
+  },
+  {
+    "name":"Tim Sheery",
+    "photo":"http://cdn6.viralscape.com/wp-content/uploads/2014/09/Creepy-Mugshot-33.jpg",
+    "scores":[
+      7,
+      4,
+      7,
+      5,
+      6,
+      5,
+      2,
+      1,
+      9,
+      5
+    ]
+  },
+  {
+    "name":"Billy Williams",
+    "photo":"http://cdn7.viralscape.com/wp-content/uploads/2014/09/Creepy-Mugshot-34.jpg",
+    "scores":[
+      3,
+      9,
+      2,
+      8,
+      3,
+      7,
+      6,
+      8,
+      3,
+      1
+    ]
+  }
+];
+
+module.exports = friends;
