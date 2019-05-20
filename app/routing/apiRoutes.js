@@ -30,7 +30,7 @@ module.exports = function (app) {
       //greatest score difference for a question is 4, therefore greatest difference is 4 times # of questions in survey
       var bestMatchDifference = 40;
 
-      for(var i = 0; i < friends.length; i++) {
+      for (var i = 0; i < friends.length; i++) {
         var totalDifference = 0;
 
         for(var index = 0; index < friends[i].scores.length; index++) {
